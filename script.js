@@ -8,6 +8,5 @@ const form= document.getElementById("form1");
     return;
   }
   const fullName = `${firstName} ${lastName}`;
-  alert(`${firstName}${lastName}`);
-alert(fullName)
+  alert(`${firstName} ${lastName}`);
 }
